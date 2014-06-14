@@ -1,6 +1,6 @@
 # Ruby docker image
 
-A container based on [walm/docker-base](https://github.com/walm/docker-base)
+A container based on [walm/base](https://github.com/walm/docker-base)
 
 ## Includes
 
